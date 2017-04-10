@@ -10,7 +10,7 @@ CPU     | Octa-core 1.2 GHz Cortex-A53
 Chipset | HiSilicon Kirin 620
 GPU     | Mali-450MP4
 Memory  | 2 GB RAM
-Shipped Android Version | 5.1.1 / EMUI 3.0
+Shipped Android Version | 4.4.2 / EMUI 3.0
 Storage | 8 GB
 MicroSD | Up to 32 GB
 Battery | Li-ion 2550mAh battery
