@@ -1,7 +1,7 @@
 Unified Device Tree for G Play Mini (CHM-U01 - gpm)
 ===========================================
 
-The Huawei P8 Lite (codenamed _"gpm"_) is a mid-range smartphone from Huawei Tecnologies.
+The Huawei G Play Mini (codenamed _"gpm"_) is a mid-range smartphone from Huawei Tecnologies.
 It was announced on April 2015.
 
 Basic   | Spec Sheet
